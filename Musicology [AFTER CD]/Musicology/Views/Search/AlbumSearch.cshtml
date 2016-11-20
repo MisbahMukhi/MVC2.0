@@ -1,0 +1,91 @@
+﻿@model IEnumerable<Musicology.Models.Album>
+
+@{
+    ViewBag.Title = "AlbumSearch";
+}
+
+@using (Html.BeginForm("Index", "Search", FormMethod.Get))
+{
+
+    <p class="form-group">
+        <h2>Customers</h2>
+        Search: @Html.TextBox("SearchString", null, new { @class = "form-control" })<br />
+
+        <div class="form-group">
+            <div class="form-check">
+                <label class="form-check-label">
+                    @Html.RadioButton("SelectedTypes", "Song", true, new { @class = "form-check-input" }) Songs
+                </label>
+            </div>
+
+            <div class="form-group">
+                <div class="form-check">
+                    <label class="form-check-label">
+                        @Html.RadioButton("SelectedTypes", "Album", new { @class = "form-check-input" }) Albums
+                    </label>
+                </div>
+
+                <div class="form-group">
+                    <div class="form-check">
+                        <label class="form-check-label">
+                            @Html.RadioButton("SelectedTypes", "Artist", new { @class = "form-check-input" }) Artists
+                        </label>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <input type="submit" value="Search" />
+
+
+
+        Displaying @Model.Count() of @ViewBag.CustomerCount Records
+
+    </p>
+
+}
+
+<h2>AlbumSearch</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.AlbumName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Artist)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Genre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.AlbumPrice)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.AlbumName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Artist)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Genre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.AlbumPrice)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.AlbumID }) |
+            @Html.ActionLink("Details", "Details", new { id=item.AlbumID }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.AlbumID })
+        </td>
+    </tr>
+}
+
+</table>

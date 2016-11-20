@@ -1,0 +1,368 @@
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\csc.exe
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\vbc.exe
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\VBCSCompiler.exe
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Musicology.dll.config
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Musicology.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Musicology.pdb
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Antlr3.Runtime.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\EntityFramework.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\EntityFramework.SqlServer.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Security.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Newtonsoft.Json.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Owin.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Helpers.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Mvc.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Razor.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Webpages.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Webpages.Razor.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\WebGrease.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Antlr3.Runtime.pdb
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\EntityFramework.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\EntityFramework.SqlServer.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Security.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Newtonsoft.Json.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Razor.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Webpages.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Webpages.Razor.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Helpers.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Mvc.xml
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\obj\Debug\Musicology.csprojResolveAssemblyReference.cache
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\obj\Debug\Musicology.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\obj\Debug\Musicology.pdb
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Optimization.dll
+C:\Users\Misbah\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Optimization.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\csc.exe
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\vbc.exe
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\VBCSCompiler.exe
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Musicology.dll.config
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Musicology.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Musicology.pdb
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Antlr3.Runtime.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\EntityFramework.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\EntityFramework.SqlServer.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Security.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Newtonsoft.Json.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Owin.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Helpers.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Mvc.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Optimization.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Razor.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Webpages.Deployment.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Webpages.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Webpages.Razor.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\WebGrease.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Antlr3.Runtime.pdb
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\EntityFramework.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\EntityFramework.SqlServer.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Security.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\Newtonsoft.Json.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Optimization.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Razor.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Webpages.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Webpages.Deployment.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Webpages.Razor.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Helpers.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\bin\System.Web.Mvc.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\obj\Debug\Musicology.csprojResolveAssemblyReference.cache
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\obj\Debug\Musicology.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology\Musicology\obj\Debug\Musicology.pdb
+D:\Musicology[B4 CD]\Musicology\bin\roslyn\csc.exe
+D:\Musicology[B4 CD]\Musicology\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Musicology[B4 CD]\Musicology\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Musicology[B4 CD]\Musicology\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Musicology[B4 CD]\Musicology\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Musicology[B4 CD]\Musicology\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Musicology[B4 CD]\Musicology\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Musicology[B4 CD]\Musicology\bin\roslyn\System.Collections.Immutable.dll
+D:\Musicology[B4 CD]\Musicology\bin\roslyn\System.Reflection.Metadata.dll
+D:\Musicology[B4 CD]\Musicology\bin\roslyn\vbc.exe
+D:\Musicology[B4 CD]\Musicology\bin\roslyn\VBCSCompiler.exe
+D:\Musicology[B4 CD]\Musicology\bin\roslyn\VBCSCompiler.exe.config
+D:\Musicology[B4 CD]\Musicology\bin\Musicology.dll.config
+D:\Musicology[B4 CD]\Musicology\bin\Musicology.dll
+D:\Musicology[B4 CD]\Musicology\bin\Musicology.pdb
+D:\Musicology[B4 CD]\Musicology\bin\Antlr3.Runtime.dll
+D:\Musicology[B4 CD]\Musicology\bin\EntityFramework.dll
+D:\Musicology[B4 CD]\Musicology\bin\EntityFramework.SqlServer.dll
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.Owin.dll
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.Owin.Security.dll
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.Web.Infrastructure.dll
+D:\Musicology[B4 CD]\Musicology\bin\Newtonsoft.Json.dll
+D:\Musicology[B4 CD]\Musicology\bin\Owin.dll
+D:\Musicology[B4 CD]\Musicology\bin\System.Web.Helpers.dll
+D:\Musicology[B4 CD]\Musicology\bin\System.Web.Mvc.dll
+D:\Musicology[B4 CD]\Musicology\bin\System.Web.Optimization.dll
+D:\Musicology[B4 CD]\Musicology\bin\System.Web.Razor.dll
+D:\Musicology[B4 CD]\Musicology\bin\System.Web.Webpages.Deployment.dll
+D:\Musicology[B4 CD]\Musicology\bin\System.Web.Webpages.dll
+D:\Musicology[B4 CD]\Musicology\bin\System.Web.Webpages.Razor.dll
+D:\Musicology[B4 CD]\Musicology\bin\WebGrease.dll
+D:\Musicology[B4 CD]\Musicology\bin\Antlr3.Runtime.pdb
+D:\Musicology[B4 CD]\Musicology\bin\EntityFramework.xml
+D:\Musicology[B4 CD]\Musicology\bin\EntityFramework.SqlServer.xml
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.Owin.xml
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.Owin.Security.xml
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Musicology[B4 CD]\Musicology\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Musicology[B4 CD]\Musicology\bin\Newtonsoft.Json.xml
+D:\Musicology[B4 CD]\Musicology\bin\System.Web.Optimization.xml
+D:\Musicology[B4 CD]\Musicology\bin\System.Web.Razor.xml
+D:\Musicology[B4 CD]\Musicology\bin\System.Web.Webpages.xml
+D:\Musicology[B4 CD]\Musicology\bin\System.Web.Webpages.Deployment.xml
+D:\Musicology[B4 CD]\Musicology\bin\System.Web.Webpages.Razor.xml
+D:\Musicology[B4 CD]\Musicology\bin\System.Web.Helpers.xml
+D:\Musicology[B4 CD]\Musicology\bin\System.Web.Mvc.xml
+D:\Musicology[B4 CD]\Musicology\obj\Debug\Musicology.csprojResolveAssemblyReference.cache
+D:\Musicology[B4 CD]\Musicology\obj\Debug\Musicology.dll
+D:\Musicology[B4 CD]\Musicology\obj\Debug\Musicology.pdb
+D:\Musicology[B4 CD] - Copy\Musicology\bin\roslyn\csc.exe
+D:\Musicology[B4 CD] - Copy\Musicology\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Musicology[B4 CD] - Copy\Musicology\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Musicology[B4 CD] - Copy\Musicology\bin\roslyn\System.Collections.Immutable.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\roslyn\System.Reflection.Metadata.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\roslyn\vbc.exe
+D:\Musicology[B4 CD] - Copy\Musicology\bin\roslyn\VBCSCompiler.exe
+D:\Musicology[B4 CD] - Copy\Musicology\bin\roslyn\VBCSCompiler.exe.config
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Musicology.dll.config
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Musicology.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Musicology.pdb
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Antlr3.Runtime.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\EntityFramework.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\EntityFramework.SqlServer.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.Owin.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.Owin.Security.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.Web.Infrastructure.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Newtonsoft.Json.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Owin.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\System.Web.Helpers.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\System.Web.Mvc.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\System.Web.Optimization.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\System.Web.Razor.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\System.Web.Webpages.Deployment.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\System.Web.Webpages.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\System.Web.Webpages.Razor.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\WebGrease.dll
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Antlr3.Runtime.pdb
+D:\Musicology[B4 CD] - Copy\Musicology\bin\EntityFramework.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\EntityFramework.SqlServer.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.Owin.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.Owin.Security.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\Newtonsoft.Json.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\System.Web.Optimization.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\System.Web.Razor.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\System.Web.Webpages.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\System.Web.Webpages.Deployment.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\System.Web.Webpages.Razor.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\System.Web.Helpers.xml
+D:\Musicology[B4 CD] - Copy\Musicology\bin\System.Web.Mvc.xml
+D:\Musicology[B4 CD] - Copy\Musicology\obj\Debug\Musicology.csprojResolveAssemblyReference.cache
+D:\Musicology[B4 CD] - Copy\Musicology\obj\Debug\Musicology.dll
+D:\Musicology[B4 CD] - Copy\Musicology\obj\Debug\Musicology.pdb
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\roslyn\csc.exe
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\roslyn\vbc.exe
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\roslyn\VBCSCompiler.exe
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Musicology.dll.config
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Musicology.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Musicology.pdb
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Antlr3.Runtime.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\EntityFramework.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\EntityFramework.SqlServer.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Security.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Newtonsoft.Json.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Owin.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\System.Web.Helpers.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\System.Web.Mvc.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\System.Web.Optimization.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\System.Web.Razor.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\System.Web.Webpages.Deployment.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\System.Web.Webpages.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\System.Web.Webpages.Razor.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\WebGrease.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Antlr3.Runtime.pdb
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\EntityFramework.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\EntityFramework.SqlServer.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Security.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\Newtonsoft.Json.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\System.Web.Optimization.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\System.Web.Razor.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\System.Web.Webpages.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\System.Web.Webpages.Deployment.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\System.Web.Webpages.Razor.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\System.Web.Helpers.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\bin\System.Web.Mvc.xml
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\obj\Debug\Musicology.csprojResolveAssemblyReference.cache
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\obj\Debug\Musicology.dll
+C:\Users\TranK\Source\Repos\F16Team20Project\Musicology [AFTER CD]\Musicology\obj\Debug\Musicology.pdb
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\roslyn\csc.exe
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\roslyn\vbc.exe
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Musicology.dll.config
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Musicology.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Musicology.pdb
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Antlr3.Runtime.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\EntityFramework.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\EntityFramework.SqlServer.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Security.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Newtonsoft.Json.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Owin.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\System.Web.Helpers.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\System.Web.Mvc.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\System.Web.Optimization.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\System.Web.Razor.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\System.Web.Webpages.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\WebGrease.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Antlr3.Runtime.pdb
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\EntityFramework.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\EntityFramework.SqlServer.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Security.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\Newtonsoft.Json.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\System.Web.Optimization.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\System.Web.Razor.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\System.Web.Webpages.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\System.Web.Helpers.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\bin\System.Web.Mvc.xml
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\obj\Debug\Musicology.csprojResolveAssemblyReference.cache
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\obj\Debug\Musicology.dll
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\obj\Debug\Musicology.pdb
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\obj\Debug\Musicology.Migrations.InitialSetup.resources
+C:\Users\Ayaz Amir\Desktop\Musicology [AFTER CD]\Musicology\obj\Debug\Musicology.csproj.GenerateResource.Cache
